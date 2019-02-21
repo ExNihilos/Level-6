@@ -1,0 +1,10 @@
+c:\users\scorpious\documents\visual studio 2017\Projects\Level 6\Level 6\bin\Debug\Level 6.exe.config
+c:\users\scorpious\documents\visual studio 2017\Projects\Level 6\Level 6\bin\Debug\Level 6.exe
+c:\users\scorpious\documents\visual studio 2017\Projects\Level 6\Level 6\bin\Debug\Level 6.pdb
+c:\users\scorpious\documents\visual studio 2017\Projects\Level 6\Level 6\bin\Debug\Newtonsoft.Json.dll
+c:\users\scorpious\documents\visual studio 2017\Projects\Level 6\Level 6\obj\Debug\Level 6.csprojResolveAssemblyReference.cache
+c:\users\scorpious\documents\visual studio 2017\Projects\Level 6\Level 6\obj\Debug\Level_6.Form1.resources
+c:\users\scorpious\documents\visual studio 2017\Projects\Level 6\Level 6\obj\Debug\Level_6.Properties.Resources.resources
+c:\users\scorpious\documents\visual studio 2017\Projects\Level 6\Level 6\obj\Debug\Level 6.csproj.GenerateResource.Cache
+c:\users\scorpious\documents\visual studio 2017\Projects\Level 6\Level 6\obj\Debug\Level 6.exe
+c:\users\scorpious\documents\visual studio 2017\Projects\Level 6\Level 6\obj\Debug\Level 6.pdb
